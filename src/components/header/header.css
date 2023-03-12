@@ -1,0 +1,34 @@
+.header-wrapper {
+    background-color: #131618;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 1%;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.8);
+}
+
+.header-wrapper h2 {
+    font-size: 4rem;
+    color:orange
+}
+
+.header-wrapper h3 {
+    font-size: 3rem;
+    color:orange
+}
+
+.header-wrapper p {
+    width: 75%;
+    font-size: 1.2rem;
+    color:orange
+}
+.header-text {
+    display: flex;
+    justify-content: center;
+}
+
+.header-text {
+    text-align: center;
+}
+
