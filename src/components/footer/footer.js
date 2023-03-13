@@ -6,7 +6,7 @@ function Footer() {
       <div className='address-wrapper'>
         <h2>Mad Mike's Demo & Recycling</h2>
         <div className='address-body'>
-          <p>876 E jamestown rd</p>
+          <p>8tetttertert</p>
           <p>Jamestown Pa 16134</p>
           <p>(724)-866-6609</p>
         </div>
