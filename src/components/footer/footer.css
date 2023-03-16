@@ -9,7 +9,13 @@
 }
 
 .address-wrapper {
-    margin-top: 0.5%;
+    
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
    
 }
 
@@ -23,16 +29,20 @@
 
 .opening-hours-wrapper {
     margin-top: 0.5%;
+    text-align: center;
+    margin-right: 1rem;
     
    
 }
 
 .facebook-wrapper {
     margin-top: 1rem;
+    font-weight: bold;
   }
   
   a {
     font-size: 1.2rem;
+    font-style: italic;
     color: white;
   }
   P {text-align: center;}
@@ -60,3 +70,28 @@
     font-size: 1rem;
     color: #fff;
   }
+
+
+
+  @media screen and (max-width: 600px) {
+    .footer-wrapper{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      height: 48rem;
+    }
+
+
+    
+   
+  }
+
+
+
+  @media screen and (min-width: 601px) {
+    .address-wrapper {
+      margin-bottom: 16rem;
+    }
+  }
+  
