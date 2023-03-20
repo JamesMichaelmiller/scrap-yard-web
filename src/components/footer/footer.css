@@ -1,11 +1,17 @@
+
+
+
+
 .footer-wrapper {
+  background-image: url('/public/images/steel-plate.jpg');
     background-color: black;
     color:white;
     width: 100%;
-    height: 30rem;
+    height: 20rem;
     display: flex;
     justify-content: space-evenly;
-    border-radius: 30px;
+    border-radius: 15px;
+    margin: 0.25%;
 }
 
 .address-wrapper {
@@ -15,6 +21,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-top: 7rem;
     
    
 }

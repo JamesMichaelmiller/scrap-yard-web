@@ -1,10 +1,12 @@
+
 import './header-image.css';
 
 function HeaderImage() {
     return (
-        <div className="background-wrapper">
+        <div className='header-image-wrapper'>
+           
         </div>
     )
 }
 
-export default HeaderImage
+export default HeaderImage;
