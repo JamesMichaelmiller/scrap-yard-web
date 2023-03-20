@@ -1,12 +1,12 @@
-.background-wrapper {
-    background-image: url('https://img.freepik.com/free-photo/closeup-shot-waving-flag-united-states-america-with-interesting-textures_181624-15182.jpg?size=626&ext=jpg');
-    min-height: 300px;
-    background-attachment: fixed;
+.header-image-wrapper {
+    background-image: url('/public/images/20230315_144105.jpg');
+    min-height: 500px;
+    border-radius: 15px;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
     border: none;
-    
+    margin: 0.25%;
     /* Create a linear gradient for the border image */
     border-image: linear-gradient(to right, black, transparent) 1;
     /* Set the border width and style to none, as they will be defined in the border-image property */
@@ -16,6 +16,6 @@
     box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
 
 
-  margin-top: 5%;
-    margin-bottom: 5%;
+  margin-top: 2%;
+    margin-bottom: 2%;
   }

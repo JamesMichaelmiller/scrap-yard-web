@@ -1,12 +1,13 @@
 .header-wrapper {
-    background-color: #131618;
-    border-radius: 25px;
+    background-image: url('/public/images/steel-plate.jpg');
+    border-radius: 15px;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    margin: 1%;
+    margin: 0.25%;
     box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.8);
 }
+
 
 .header-wrapper h2 {
     font-size: 4rem;
@@ -36,5 +37,6 @@
     .header-wrapper h2 {
         text-align: center;
         font-size: 2rem;
+
     }
 }
