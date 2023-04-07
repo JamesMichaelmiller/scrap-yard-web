@@ -33,6 +33,11 @@
     text-align: center;
 }
 
+.header-wrapper nav a:hover{
+   color:orange;
+   text-decoration: underline;
+}
+
 @media screen and (max-width: 600px) {
     .header-wrapper h2 {
         text-align: center;
