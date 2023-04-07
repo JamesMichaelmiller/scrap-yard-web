@@ -1,0 +1,22 @@
+
+.nav-wrapper  nav {
+    background-color: black;
+    color:black;
+    width: 100%;
+    display:flex;
+    justify-content: space-evenly;
+    margin-bottom: 2%;
+}       
+
+.nav-wrapper  nav a{
+    color:white;
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+
+
+.nav-wrapper nav a:hover {
+    color:orange;
+    text-decoration: underline;
+}

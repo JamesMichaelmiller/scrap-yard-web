@@ -1,4 +1,3 @@
-
 import './header-image.css';
 
 function HeaderImage() {
