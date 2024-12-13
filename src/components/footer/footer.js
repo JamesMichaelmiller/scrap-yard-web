@@ -17,12 +17,12 @@ function Footer() {
         </div>
         <div className='hours'>
           <ul>
-            <li>Monday: 9:00 AM - 6:00 PM</li>
-            <li>Tuesday: 9:00 AM - 6:00 PM</li>
-            <li>Wednesday: 9:00 AM - 6:00 PM</li>
-            <li>Thursday: 9:00 AM - 6:00 PM</li>
-            <li>Friday: 9:00 AM - 6:00 PM</li>
-            <li>Saturday: 10:00 AM - 3:00 PM</li>
+            <li>Monday: 9:00 AM - 5:00 PM</li>
+            <li>Tuesday: 9:00 AM - 5:00 PM</li>
+            <li>Wednesday: 9:00 AM - 5:00 PM</li>
+            <li>Thursday: 9:00 AM - 5:00 PM</li>
+            <li>Friday: 9:00 AM - 5:00 PM</li>
+            <li>Saturday: 10:00 AM - 2:00 PM</li>
             <li>Sunday: Closed</li>
           </ul>
         </div>
@@ -35,7 +35,7 @@ function Footer() {
           (CLICK HERE) MAD MIKE on FACEBOOK
          
         </a>
-        <p>Special pricing for repeat customers or larger quantites of meterials
+        <p>Special pricing for repeat customers or larger quantities of materials
         </p>
         
         
