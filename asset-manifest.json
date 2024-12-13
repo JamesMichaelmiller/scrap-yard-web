@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.6faa3db6.css",
-    "main.js": "/static/js/main.3600952f.js",
+    "main.css": "/static/css/main.1140312c.css",
+    "main.js": "/static/js/main.960c2814.js",
     "static/media/steel-plate.jpg": "/static/media/steel-plate.adc63d7303d8f199b76d.jpg",
     "static/media/20230315_144105.jpg": "/static/media/20230315_144105.563398b87dd791f404eb.jpg",
     "index.html": "/index.html",
-    "main.6faa3db6.css.map": "/static/css/main.6faa3db6.css.map",
-    "main.3600952f.js.map": "/static/js/main.3600952f.js.map"
+    "main.1140312c.css.map": "/static/css/main.1140312c.css.map",
+    "main.960c2814.js.map": "/static/js/main.960c2814.js.map"
   },
   "entrypoints": [
-    "static/css/main.6faa3db6.css",
-    "static/js/main.3600952f.js"
+    "static/css/main.1140312c.css",
+    "static/js/main.960c2814.js"
   ]
 }
